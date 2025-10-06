@@ -1,0 +1,12 @@
+streamlit>=1.28.0
+pydub>=0.25.1
+numpy>=1.26.0
+pandas>=2.1.0
+openai>=1.30.0
+python-dotenv>=1.0.0
+requests>=2.31.0
+matplotlib>=3.8.0
+plotly>=5.18.0
+librosa>=0.10.1
+soundfile>=0.12.1
+nltk>=3.8.1
